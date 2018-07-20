@@ -1,1 +1,58 @@
+body {
+  background-color: black;
+  font-family: verdana;
+  align-content: center;
+}
 
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+#top-download {
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
+
+video {
+  width: auto;
+  margin: auto;
+  display: block;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+#guide {
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+
+.travel-guide img {
+  width: auto;
+  margin: auto;
+  display: block;
+}
+
+.app img {
+  width: auto;
+  margin: auto;
+  display: block;
+}
+
+#bottom-download {
+  text-align: center;
+  color: aquamarine;
+}
+#copyright {
+  color: gray;
+  text-align: right;
+}
